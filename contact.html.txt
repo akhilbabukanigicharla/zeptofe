@@ -1,1 +1,1 @@
-this is cantact.html file
+this is contact.html file
